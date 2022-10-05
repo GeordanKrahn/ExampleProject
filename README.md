@@ -18,7 +18,7 @@ This guide is intended to show you how to set up your Unity project for version 
 
 
 ## Publish Branch to Github
-- Using your preferred application (such as Github Desktop), create a github repository.
+- Using your preferred application (such as [Github Desktop](https://desktop.github.com/)), create a github repository.
 
 - ![Image 4](Assets/pics/explorer4.PNG)
 - If you have done this correctly, there should be a .git folder in your project folder. This file is hidden, so you will need to change the settings in Explorer to show hidden files to see this folder.
